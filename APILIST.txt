@@ -7,5 +7,5 @@ Products:
 
 
 UserController:
-    Signup 
-    Signin
+    Signup = email,name ,pass, typeOfUser(customer, seller)
+    Signin = email, password
